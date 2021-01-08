@@ -1,0 +1,50 @@
+* Java criada em 1995 pela Sun Microsystem
+* James Gosling
+* Compilado para um bytecode que é interpretado pela máquina virtual
+
+* Compilador
+
+- é um programa que cria um programa semanticamente equivalente, ec=scrito em
+código objeto.
+- traduz um programa de uma linguagem textual para uma linguagem de máquina
+
+* bytecode
+
+- codigo originado da compilação de programas java
+
+* JVM
+
+ - Maquina virtual é um software que simula uma maquina fisica.
+ - A JVM é a maquina virtual do Java, lendo o bytecode.
+ - Não precisa compilar o programa para cada sistema operacional.
+
+* JRE 
+ - Java Runtime enviroment - ambiente de execução do java
+ - composto pela JVM, bibliotecas e APIs da linguagem.
+ - é a parte responsável pela execução do software Java
+
+* JDK
+ - Java development Kit - kit de desenvolvimento java
+ - é composto pelo compilador java, bibliotecas da linguagem, ferramentas e JRE
+
+* Java SE
+ - Standart Edition - distribuição minima da plataforma de desenvolvimento de
+aplicações java.
+ - OpenJDK é a implementação de referencia
+
+* JAVA EE
+ - Extensão do Java SE - possui suporte a desenvolvimento em sistemas corporativos
+ - Enterprise Edition.
+ - servidores de aplicação Java EE - RedHat - Oracle - IBM
+
+* Jakarta EE
+ - Oracle cedeu o codigo para a Eclipse Foundation
+ - A evolução da especificação e e padrões do Java será feito sob o nome Jakarta EE
+
+
+
+
+
+
+
+
